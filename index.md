@@ -2,7 +2,7 @@
 title: "Joe Rodgers"
 layout: splash
 permalink: /
-date: 2019-05-22
+date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -11,9 +11,9 @@ header:
     - label: "Learn More"
       url: "/terms/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Enterprise Marketing, Salesman, Hodler, Barbeque, & Dad."
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'I’m an enterprise technology marketer, salesman, Bitcoin hodler, barbeque enthusiast, and a Dad. My journey as a first college graduate to business owner has provided valuable business and life lessons. I graduated from Christian Brothers University, and was also a Men's Soccer Letterman. I am a Bitcoin hodler who eats far too much barbeque and loves his family.'
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
