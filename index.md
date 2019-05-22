@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Enterprise Marketing, Salesman, Hodler, Barbeque, & Dad."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: "I’m an enterprise technology marketer, salesman, Bitcoin hodler, barbeque enthusiast, and a Dad. My journey as a first college graduate to business owner has provided valuable business and life lessons. I graduated from Christian Brothers University, and was also a Men's Soccer Letterman. I am a Bitcoin hodler who eats far too much barbeque and love my family.""
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
