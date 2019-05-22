@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "/assets/images/jr-head.jpg"
-  bio              : "I am an amazing person."
+  name             : "Joe Rodgers"
+  avatar           : "/assets/jr-head.jpg"
+  bio              : "Lower your time preference and zoom out."
   location         : "Texas/Arkansas"
   email            : joerodgers@pm.me
   links:
