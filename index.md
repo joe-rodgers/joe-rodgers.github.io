@@ -42,12 +42,12 @@ feature_row3:
   - image_path: /assets/fylr.png
     alt: "FYLR image"
     title: "FYLR // Fuck Yeah Little Rock"
-    excerpt: 'A Little Rock food, drink, entertainment, and sports blog. It's kinda dirty but that's how I prefer it.
+    excerpt: 'A Little Rock food, drink, entertainment, and sports blog. It's kinda dirty but that's how I prefer it.''
     url: "http://fylr.us/"
     btn_label: "Read FYLR"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/explainer.png
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
@@ -64,4 +64,4 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
