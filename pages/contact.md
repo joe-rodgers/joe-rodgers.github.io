@@ -9,7 +9,7 @@ defaults:
       path: "Contact"
       type: pages
     values:
-      layout: wide
+      layout: single
 ---
 
 # HOW CAN I HELP?
