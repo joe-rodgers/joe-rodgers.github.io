@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/pk-splash.jpg
-  actions:
+  # actions:
     - label: "Learn More"
       url: "/terms/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
