@@ -11,9 +11,9 @@ header:
     - label: "Learn More"
       url: "/terms/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Enterprise Marketing, Salesman, Hodler, Barbeque, & Dad."
+excerpt: "Enterprise Marketing, Salesman, Hodler, Barbeque Enthusiast, & Dad."
 intro: 
-  - excerpt: "I’m an enterprise technology marketer, salesman, Bitcoin hodler, barbeque enthusiast, and a Dad. My journey as a first college graduate to business owner has provided valuable business and life lessons. I graduated from Christian Brothers University, and was also a Men's Soccer Letterman. I am a Bitcoin hodler who eats far too much barbeque and love my family."
+  - excerpt: "I’m an enterprise technology marketer, salesman, Bitcoin hodler, barbeque enthusiast, and a Dad. My journey as a first college graduate to business owner has provided valuable business and life lessons. I graduated from Christian Brothers University, and was also a Men's Soccer Letterman. I've sold hardware, software, sneakers, and beer. Right now I'm focused on enterprise technology marketing at Hewlett Packard Enterprise. I am a Bitcoin hodler who eats far too much barbeque and I love my family."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
