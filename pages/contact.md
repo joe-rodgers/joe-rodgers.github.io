@@ -4,13 +4,6 @@ title: "Contact"
 header:
   image: /assets/grilling.jpg
   caption: "Me and my beautiful PK Classic"
-defaults:
-  # _pages
-  - scope:
-      path: "Contact"
-      type: pages
-    values:
-      layout: single
 ---
 
 # HOW CAN I HELP?

@@ -1,12 +1,6 @@
 ---
 permalink: /about/
-defaults:
-  # _pages
-  - scope:
-      path: "About"
-      type: pages
-    values:
-      layout: single
+title: "About"
 ---
 
 I am passionate about the Bitcoin industry and its developments worldwide, particularly from a monetary policy and libertarian perspective. I strongly believe in education and onboarding via content curation and I enjoy the creative process of doing so.
