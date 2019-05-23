@@ -1,5 +1,8 @@
 ---
 permalink: /contact/
+header:
+  image: /assets/grilling.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 defaults:
   # _pages
   - scope:
