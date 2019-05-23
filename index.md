@@ -7,10 +7,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/pk-splash.jpg
-  # actions:
-    - label: "Learn More"
-      url: "/terms/"
-  caption: "Wings do not simply, cook themselves."
+  actions:
+    - label: "Tweet Me"
+      url: "https://twitter.com/_joerodgers"
+  caption: "Wings do not simply, ccok themselves"
 excerpt: "Enterprise Marketing, Salesman, Hodler, Barbeque Enthusiast, & Dad."
 intro: 
   - excerpt: "I’m an enterprise technology marketer, salesman, Bitcoin hodler, barbeque enthusiast, and a Dad. My journey as a first college graduate to business owner has provided valuable business and life lessons. I graduated from Christian Brothers University, and was also a Men's Soccer Letterman. I've sold hardware, software, sneakers, and beer. Right now I'm focused on enterprise technology marketing at Hewlett Packard Enterprise. I am a Bitcoin hodler who eats far too much barbeque and I love my family."
