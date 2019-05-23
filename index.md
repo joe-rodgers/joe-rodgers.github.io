@@ -47,18 +47,16 @@ feature_row3:
     btn_label: "Read FYLR"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/explainer.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/explainer.jpg
+    alt: "Explainer image"
+    title: "Explainer"
+    excerpt: 'An enterprise tech newsletter. Was weekly but priorities have since shifted.'
+    url: "https://explainer.tech/"
+    btn_label: "Read Explainer"
     btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
