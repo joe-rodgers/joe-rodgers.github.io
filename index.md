@@ -39,12 +39,12 @@ feature_row2:
     btn_label: "Read Crypto Words"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/fylr.png
+    alt: "FYLR image"
+    title: "FYLR // Fuck Yeah Little Rock"
+    excerpt: 'A Little Rock food, drink, entertainment, and sports blog. It's kinda dirty but that's how I prefer it.
+    url: "http://fylr.us/"
+    btn_label: "Read FYLR"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
