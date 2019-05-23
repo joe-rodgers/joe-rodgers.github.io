@@ -31,7 +31,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/cw.png
+  - image_path: /assets/cw.jpg
     alt: "Crypto Words // A Bitcoin journal."
     title: "Crypto Words // A Bitcoin journal."
     excerpt: "Crypto Words is a journal of Bitcoin commentary from the brightest minds in the crypto community."
@@ -39,7 +39,7 @@ feature_row2:
     btn_label: "Read Crypto Words"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/fylr.png
+  - image_path: /assets/fylr.jpg
     alt: "FYLR image"
     title: "FYLR // Fuck Yeah Little Rock"
     excerpt: "A Little Rock food, drink, entertainment, and sports blog. It's kinda dirty but that's how I prefer it."
