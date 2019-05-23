@@ -34,7 +34,7 @@ feature_row2:
   - image_path: /assets/cw.png
     alt: "Crypto Words // A Bitcoin journal."
     title: "Crypto Words // A Bitcoin journal."
-    excerpt: 'Crypto Words is a journal of Bitcoin commentary from the brightest minds in the crypto community.'
+    excerpt: "Crypto Words is a journal of Bitcoin commentary from the brightest minds in the crypto community."
     url: "https://cryptowords.github.io/"
     btn_label: "Read Crypto Words"
     btn_class: "btn--primary"
@@ -42,7 +42,7 @@ feature_row3:
   - image_path: /assets/fylr.png
     alt: "FYLR image"
     title: "FYLR // Fuck Yeah Little Rock"
-    excerpt: 'A Little Rock food, drink, entertainment, and sports blog. It's kinda dirty but that's how I prefer it.''
+    excerpt: "A Little Rock food, drink, entertainment, and sports blog. It's kinda dirty but that's how I prefer it."
     url: "http://fylr.us/"
     btn_label: "Read FYLR"
     btn_class: "btn--primary"
