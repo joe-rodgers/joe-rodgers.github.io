@@ -288,6 +288,7 @@ defaults:
       type: posts
     values:
       layout: single
+      category: "posts"
       author_profile: true
       read_time: true
       comments: # true
