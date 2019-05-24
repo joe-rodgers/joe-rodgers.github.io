@@ -58,9 +58,6 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-# Insert A Header Here
-insert supporting text here
-
 # Projects
 
 {% include feature_row id="feature_row2" type="left" %}
