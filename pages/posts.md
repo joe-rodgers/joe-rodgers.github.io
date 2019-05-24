@@ -5,4 +5,4 @@ permalink: /categories/posts/
 taxonomy: posts
 ---
 
-# Posts are listed in chronological order.
+# My blog
