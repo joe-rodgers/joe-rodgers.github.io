@@ -1,9 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
-header:
-  image: /assets/grilling.jpg
-  caption: "Me and my beautiful PK Classic"
+
 ---
 
 # HOW CAN I HELP?

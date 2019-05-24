@@ -1,6 +1,9 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  image: /assets/grilling.jpg
+  caption: "Me and my beautiful PK Classic"
 ---
 
 I am passionate about the Bitcoin industry and its developments worldwide, particularly from a monetary policy and libertarian perspective. I strongly believe in education and onboarding via content curation and I enjoy the creative process of doing so.
