@@ -8,8 +8,10 @@ header:
 
 I am passionate about the Bitcoin industry and its developments worldwide, particularly from a monetary policy and libertarian perspective. I strongly believe in education and onboarding via content curation and I enjoy the creative process of doing so.
 
-For the past year, I have been the US Marketing Manager for HPE covering the Telco vertical. Prior to marketing, I carried a bag in a sales role at HPE for 6 years. Before that I sold [beer](http://diamondbear.com/), [industrial hydraulics](https://www.fainc.net/), and even sneakers.
+For the past year, I have been the US Marketing Manager for [HPE](https://www.hpe.com/) covering the Telco vertical. Prior to marketing, I carried a bag in a sales role at HPE for 6 years. Before that I sold [beer](http://diamondbear.com/), [industrial hydraulics](https://www.fainc.net/), and even sneakers.
 I hold a B.S.B.A. in Marketing from [Christian Brothers University](https://www.cbu.edu/) in Memphis, TN. 
+
+[CV Download](/assets/2018-08-joerodgers-cv.pdf){: .btn .btn--primary}
 
 I am happily married and have two amazing kiddos and two sub-optimal doggos.
 
