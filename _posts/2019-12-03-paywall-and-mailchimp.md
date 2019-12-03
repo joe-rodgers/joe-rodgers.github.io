@@ -83,23 +83,33 @@ You will need to fill out the required fields...
 
 Once you've added your desired audience, who it's from, and the subject line, the only thing left to do is design the email!
 
+**You can add subscribers manually under the audience tab on the home page**
+
 ![](/assets/images/paywall/Capture8.PNG)
 
 We're going to go with the first option in the layouts section of the email tool...
 
 ![](/assets/images/paywall/Capture9.PNG)
 
-This is what a blank theme looks like. We will style it up very basic for purposes of this tutorial. 
+This is what a blank theme looks like. We'll style it up very basic for the purpose of this tutorial. 
 
 ![](/assets/images/paywall/Capture10.PNG)
 
-Mailchimp is pretty straight forward. You can drag and drop blocks of content displayed on the right to quickly customize your newsletter.
+Mailchimp is pretty straight forward. You can drag and drop blocks of content (displayed on the right) to quickly customize your newsletter.
 
-I will add some color to give you an idea of what's possible. Spend a little time with this tool and you'll be customizing in no time!
+I'll add some color to give you an idea of what's possible. 
+
+Spend a little time with this tool and you'll be customizing in no time!
 
 ![](/assets/images/paywall/Capture11.PNG)
 
-Now it's time to add the faucet! We will be embedding an image of the faucet, rather than a hyperlink to the page. The reason for this is so that the internet can't share the URL to the faucet, they will only be able to see it if it's in their inbox. This is about damage control. Is it possible that a user forwards the email to a friend? Yes. Is that the worst thing in the world? I don't know, up to you. The last thing you want is your faucet drained by a bunch of trolls in a bcash forum.
+Now it's time to add the faucet! 
+
+We'll be embedding an image of the faucet, rather than a hyperlink to the faucet page. 
+
+The reason for this is so the internet can't share the URL to the faucet, Withdrawals from the faucet will only be possible if they receive it in their inbox **OR** someone forwards it **OR** copies the QR code image and shares that. 
+
+This is about damage control. Is it possible that a user forwards the email to a friend? Yes. Is that the worst thing in the world? I don't know, up to you. The last thing you want is your faucet drained by a bunch of trolls in a bcash forum.
 
 I am going to add a "Boxed Text" content block and add the faucet from there.
 
