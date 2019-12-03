@@ -35,7 +35,9 @@ Great question. Maybe you want to reward readers. Maybe you've got a sponsor and
 I don't care about your reason! I want to show you how to do this!
 
 ### Description of this walkthrough
-I'm going to make an email newsletter that has a faucet in the body of the email. That way readers will be able to look grab some sats. There are many advanced methods to use Mailchimp such as automation, segments, and tags. For this exercise, we will be using a standard email campaign. 
+I'm going to make an email newsletter that has a faucet in the body of the email. Readers will be able to grab some sats right from the email, no additional additional clicking. 
+
+There are many advanced methods to use Mailchimp such as automation, segments, and tags. For this exercise, we will be using a standard email campaign with a faucet hosted on Paywall.Link.
 
 ## Tools
 I will be using Paywall.Link and Mailchimp as my primary tools for this tutorial. Go setup accounts for these tools and then come back!
