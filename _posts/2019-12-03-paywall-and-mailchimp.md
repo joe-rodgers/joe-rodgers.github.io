@@ -62,13 +62,13 @@ Now you've got to fund the wallet. You will need to use a lightning wallet to fu
 
 Once your wallet is funded, the page will automatically redirect to the advanced settings for the faucet. 
 
-**Note: the MODIFY button** will allow you to make changes to the settings you just filled out when originally making the paywall, the memo, timer, max sat withdrawal, etc.
+**The MODIFY button** allows you to make changes to the settings you just filled out when originally making the paywall, the memo, timer, max sat withdrawal, etc.
 
 ![](/assets/images/paywall/Capture4.PNG)
 
-If you click the View Faucet Button, you will be taken to a hosted faucet. 
+If you click the **View Faucet Button**, you will be taken to a hosted faucet. 
 
-**IMPORTANT** anyone who has this URL will be able to fithdraw funds from your faucet, unless it's disabled. We will **NOT** be using this URL in our demo, rather an embeddable image.
+**IMPORTANT** anyone who has this URL will be able to withdraw funds from the faucet, **unless** it's disabled. We will **NOT** be using this URL in our demo, rather an embeddable image.
 
 ![](/assets/images/paywall/Capture5.PNG)
 
