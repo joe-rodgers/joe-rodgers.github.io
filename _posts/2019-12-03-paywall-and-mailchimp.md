@@ -37,7 +37,7 @@ I don't care about your reason! I want to show you how to do this!
 ### Description of this walkthrough
 I'm going to make an email newsletter that has a faucet in the body of the email. Readers will be able to grab some sats right from the email, no additional additional clicking. 
 
-There are many advanced methods to use Mailchimp such as automation, segments, and tags. For this exercise, we will be using a standard email campaign with a faucet hosted on Paywall.Link.
+There are more advanced ways to use Mailchimp such as automation, segments, and tags. For this exercise, we will be using a standard email campaign with a faucet hosted on Paywall.Link.
 
 ## Tools
 I will be using Paywall.Link and Mailchimp as my primary tools for this tutorial. Go setup accounts for these tools and then come back!
@@ -45,10 +45,11 @@ I will be using Paywall.Link and Mailchimp as my primary tools for this tutorial
 [Go to Paywall.Link](https://paywall.link/){: .btn .btn--primary}
 [Go to Mailchimp](https://mailchimp.com/){: .btn .btn--primary}
 
-### Paywall.Link setup that faucet
-First things first, you've got to get a faucet setup. I am assuming you've got a fresh account with Paywall.Link and are ready to change the world. 
+### Go to Paywall.Link and setup that faucet
+First things first, you've got to setup a faucet. I'm assuming you've got a fresh account with Paywall.Link and are ready to change the world. 
 
 You need to make a faucet. Click the button that's circled below:
+
 ![](/assets/images/paywall/Capture1.PNG)
 
 From here, you'll need to fill out the required fields. 
