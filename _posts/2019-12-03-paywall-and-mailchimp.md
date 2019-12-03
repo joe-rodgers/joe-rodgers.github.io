@@ -154,7 +154,7 @@ Go ahead, pull out your phone and grab some sats! The QR code works in this scre
 ![](/assets/images/paywall/Capture21.PNG)
 
 ### Now track your faucet
-Now that you've shared a live faucet with the world, you will want to track it's health. 
+Now that you've sent your first newsletter **WITH** a faucet, you will want to track faucet's balance. 
 
 You can track it from the Paywall.Link facuet dashboard.
 
