@@ -153,7 +153,7 @@ Here you can see a single withdrawal has been completed. That's the withdrawal I
 
 You can see that it has 990 sats remaining in the faucet.
 
-After you click into view the details of the faucet, you can see the exact time the withdraw took place. Pretty cool!
+After you click into view the details of the faucet, you can see the exact time the withdraw took place. Look at the **Transactions** section of the dashboard towards the bottom. Pretty cool!
 
 ![](/assets/images/paywall/Capture23.PNG)
 
