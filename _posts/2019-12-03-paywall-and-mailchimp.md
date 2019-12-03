@@ -34,6 +34,9 @@ Great question. Maybe you want to reward readers. Maybe you've got a sponsor and
 
 I don't care about your reason! I want to show you how to do this!
 
+### Description of this walkthrough
+I'm going to make an email newsletter that has a faucet in the body of the email. That way readers will be able to look grab some sats. There are many advanced methods to use Mailchimp such as automation, segments, and tags. For this exercise, we will be using a standard email campaign. 
+
 ## Tools
 I will be using Paywall.Link and Mailchimp as my primary tools for this tutorial. Go setup accounts for these tools and then come back!
 
@@ -46,3 +49,10 @@ First things first, you've got to get a faucet setup. I am assuming you've got a
 You need to make a faucet. Click the button that's circled below:
 ![](/assets/images/paywall/capture1.png)
 
+From here, you'll need to fill out the required fields. 
+
+**Please Note** there are advanced fields we will work with once you've completed these basics.
+![](/assets/images/paywall/capture2.png)
+
+Now you've got to fund the wallet. You will need to use a lightning wallet to fund the account. 
+![](/assets/images/paywall/capture3.png)
