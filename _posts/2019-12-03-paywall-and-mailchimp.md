@@ -151,7 +151,7 @@ Here it is in all it's glory!
 
 Go ahead, pull out your phone and grab some sats! The QR code works in this screenshot too!
 
-![](/assets/images/paywall/Capture21.PNG)
+![](/assets/images/paywall/Capture21.png)
 
 ### Now track your faucet
 Now that you've sent your first newsletter **WITH** a faucet, you will want to track faucet's balance. 
