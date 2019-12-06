@@ -7,10 +7,11 @@
    color:black; 
    background-color: yellow;
 }
-
 .btn.secondary-button.btn-sm.pull-left { 
    color:black; 
-   background-color: yellow;
+   background-color: yellow !important;
+   font-family: 'Arial';
+   font-weight: 800;
 }
 
 .powered-by-footer{
@@ -18,6 +19,7 @@
    color:white; 
    weight:bold;
 }
+
 .wrap{
    background-image:url("https://wallpaperplay.com/walls/full/8/5/b/11399.jpg");background-size: cover; background-position: center;
 font-family: 'Arial';
