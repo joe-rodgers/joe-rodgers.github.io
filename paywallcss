@@ -1,0 +1,43 @@
+.styled-button-success { 
+   color:yellow; 
+   background: black;
+}
+
+.secondary-button { 
+   color:black; 
+   background-color: yellow;
+}
+
+.btn.secondary-button.btn-sm.pull-left { 
+   color:black; 
+   background-color: yellow;
+}
+
+.powered-by-footer{
+   background:grey; 
+   color:white; 
+   weight:bold;
+}
+.wrap{
+   background-image:url("https://wallpaperplay.com/walls/full/8/5/b/11399.jpg");background-size: cover; background-position: center;
+font-family: 'Arial';
+}
+
+.paywall-invoice-header{
+   color: black;
+}
+
+.paywall-content-nf{
+   color:white;
+   font-weight: 800;
+   text-align: center;
+}
+
+.paywall-content-nf h2 {
+   width:350px;
+   font-family: 'Arial';
+   font-weight: 800;
+   font-size: 30px;
+   color:#FFF;
+   background-color:hsla(0,0%,0%,0.5)
+}
