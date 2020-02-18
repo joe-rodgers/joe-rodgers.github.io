@@ -23,3 +23,5 @@ I also have a [trash blog](https://jrjr.posthaven.com/) that is a bunch of scree
 
 ## Things I love:
 Grilling, barbeque, hot sauce, soccer, Delta Blues, tamales, hot sauce, Bitcoin, Libertarian thought, the internet, dive bars, live music, fold out chairs outside, cherries, Busch Light, Bitcoin, Land Rovers, liberty, sound money, anything on [Mises.org](https://mises.org/).
+
+![](https://pbs.twimg.com/media/ERFddrkWsAMftkG?format=jpg&name=medium)
