@@ -1,14 +1,11 @@
 ---
 permalink: /about/
 title: "About"
-header:
-  image: /assets/grilling.jpg
-  caption: "Me and my beautiful PK Classic"
 ---
 
 I am passionate about Bitcoin and its developments worldwide, particularly from a monetary policy and libertarian perspective. I strongly believe in education and onboarding via content curation and I enjoy the creative process of doing so.
 
-You should definitely check out my Bitcoin project, [**WORDS**](https://bitcoinwords.github.io/) which is a monthly journal.
+You should definitely check out my Bitcoin project, [**WORDS**](https://bitcoinwords.github.io/) which is a monthly journal about Bitcoin.
 
 [**WORDS** on Twitter](https://twitter.com/_bitcoinwords){: .btn .btn--primary}
 
@@ -19,9 +16,9 @@ I hold a B.S.B.A. in Marketing from [Christian Brothers University](https://www.
 
 I am happily married and have two amazing kiddos and two sub-optimal doggos.
 
-I also have a [trash blog](https://jrjr.posthaven.com/) that is a bunch of screenshots from twitter and not very thoughtful. You shouldn't read it. 
+I also have a [trash blog](https://jrjr.posthaven.com/) that is a bunch of screenshots from twitter and not very thoughtful. You shouldn't read it.
+
+I recently started putting bigger [ideas in a blog](https://listed.to/@joerodgers). This is a think-out-loud blog and MANY of the entries are incomplete. I am testing out the idea of putting it all out there.  
 
 ## Things I love:
 Grilling, barbeque, hot sauce, soccer, Delta Blues, tamales, hot sauce, Bitcoin, Libertarian thought, the internet, dive bars, live music, fold out chairs outside, cherries, Busch Light, Bitcoin, Land Rovers, liberty, sound money, anything on [Mises.org](https://mises.org/).
-
-![](https://pbs.twimg.com/media/ERFddrkWsAMftkG?format=jpg&name=medium)
