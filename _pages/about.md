@@ -6,7 +6,7 @@ header:
   caption: "Me and my beautiful PK Classic"
 ---
 
-I am passionate about the Bitcoin industry and its developments worldwide, particularly from a monetary policy and libertarian perspective. I strongly believe in education and onboarding via content curation and I enjoy the creative process of doing so.
+I am passionate about Bitcoin and its developments worldwide, particularly from a monetary policy and libertarian perspective. I strongly believe in education and onboarding via content curation and I enjoy the creative process of doing so.
 
 You should definitely check out my Bitcoin project, [**WORDS**](https://bitcoinwords.github.io/) which is a monthly journal.
 
