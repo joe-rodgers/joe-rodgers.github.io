@@ -31,12 +31,12 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/cw.jpg
-    alt: "Crypto Words // A Bitcoin journal."
-    title: "Crypto Words // A Bitcoin journal."
-    excerpt: "Crypto Words is a journal of Bitcoin commentary from the brightest minds in the crypto community."
-    url: "https://cryptowords.github.io/"
-    btn_label: "Read Crypto Words"
+  - image_path: /assets/words.png
+    alt: "WORDS // A Bitcoin journal."
+    title: "WORDS // A Bitcoin journal."
+    excerpt: "WORDS is a monthly journal of Bitcoin commentary."
+    url: "https://bitcoinwords.github.io/"
+    btn_label: "Read WORDS"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/fylr.jpg
@@ -47,12 +47,12 @@ feature_row3:
     btn_label: "Read FYLR"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/explainer.jpg
-    alt: "Explainer image"
-    title: "Explainer"
-    excerpt: 'An enterprise tech newsletter. Was weekly but priorities have since shifted.'
-    url: "https://explainer.tech/"
-    btn_label: "Read Explainer"
+  - image_path: /assets/blog.png
+    alt: "Blog Image"
+    title: "My Ideas Blog"
+    excerpt: "A place to brainstorm ideas out-loud. Many entries are a work in progress."
+    url: "https://listed.to/@joerodgers"
+    btn_label: "Read my ideas"
     btn_class: "btn--primary"
 ---
 
