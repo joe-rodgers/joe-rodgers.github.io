@@ -31,15 +31,7 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/words.png
-    alt: "WORDS // A Bitcoin journal."
-    title: "WORDS // A Bitcoin journal."
-    excerpt: "WORDS is a monthly journal of Bitcoin commentary."
-    url: "https://bitcoinwords.github.io/"
-    btn_label: "Read WORDS"
-    btn_class: "btn--primary"
-feature_row2:
-  - image_path: /assets/words.png
+  - image_path: /assets/images/words.png
     alt: "WORDS // A Bitcoin journal."
     title: "WORDS // A Bitcoin journal."
     excerpt: "WORDS is a monthly journal of Bitcoin commentary."
@@ -47,20 +39,44 @@ feature_row2:
     btn_label: "Read WORDS"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/fylr.jpg
-    alt: "FYLR image"
-    title: "FYLR // Fuck Yeah Little Rock"
-    excerpt: "A Little Rock food, drink, entertainment, and sports blog. It's kinda dirty but that's how I prefer it."
-    url: "http://fylr.us/"
-    btn_label: "Read FYLR"
+  - image_path: /assets/images/beefcoin.png
+    alt: "BEEFCOIN // A simple Bitcoin curation project"
+    title: "BEEFCOIN // A simple Bitcoin curation project"
+    excerpt: "BEEFCOIN is a dashboard for all the links in Bitcoin content."
+    url: "https://beefco.in"
+    btn_label: "BEEFCOIN"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/blog.png
-    alt: "Blog Image"
-    title: "My Ideas Blog"
-    excerpt: "A place to brainstorm ideas out-loud. Many entries are a work in progress."
-    url: "https://listed.to/@joerodgers"
-    btn_label: "Read my ideas"
+  - image_path: /assets/images/hood.jpg
+    alt: "Hood Image"
+    title: "Hood Mining"
+    excerpt: "A Bitcoin mining and freedom technology company"
+    url: "http://hoodmining.com"
+    btn_label: "HOOD"
+    btn_class: "btn--primary"
+feature_row5:
+  - image_path: /assets/images/orangelabel.png
+    alt: "Orange Label"
+    title: "Orange Label"
+    excerpt: "An Azteco merchant"
+    url: "https://orangelabel.co"
+    btn_label: "Orange Label"
+    btn_class: "btn--primary"
+feature_row6:
+  - image_path: /assets/images/reaper.png
+    alt: "Reaper"
+    title: "Reaper"
+    excerpt: "A merchant of freedom tech goods."
+    url: "https://reaper.cash"
+    btn_label: "Reaper"
+    btn_class: "btn--primary"
+feature_row7:
+  - image_path: /assets/images/gunsteam.png
+    alt: "GUNS.TEAM"
+    title: "GUNS.TEAM"
+    excerpt: "A repo of 3D printing guns "
+    url: "https://guns.team"
+    btn_label: "GUNS.TEAM"
     btn_class: "btn--primary"
 ---
 
@@ -72,6 +88,12 @@ feature_row4:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="left" %}
 
 {% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row6" type="left" %}
+
+{% include feature_row id="feature_row7" type="left" %}
