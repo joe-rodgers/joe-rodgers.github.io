@@ -38,6 +38,14 @@ feature_row2:
     url: "https://bitcoinwords.github.io/"
     btn_label: "Read WORDS"
     btn_class: "btn--primary"
+feature_row2:
+  - image_path: /assets/words.png
+    alt: "WORDS // A Bitcoin journal."
+    title: "WORDS // A Bitcoin journal."
+    excerpt: "WORDS is a monthly journal of Bitcoin commentary."
+    url: "https://bitcoinwords.github.io/"
+    btn_label: "Read WORDS"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/fylr.jpg
     alt: "FYLR image"
