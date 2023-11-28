@@ -62,14 +62,6 @@ feature_row5:
     url: "https://orangelabel.co"
     btn_label: "Orange Label"
     btn_class: "btn--primary"
-feature_row6:
-  - image_path: /assets/images/reaper.png
-    alt: "Reaper"
-    title: "Reaper"
-    excerpt: "A merchant of freedom tech goods."
-    url: "https://reaper.cash"
-    btn_label: "Reaper"
-    btn_class: "btn--primary"
 feature_row7:
   - image_path: /assets/images/gunsteam.png
     alt: "GUNS.TEAM"
@@ -93,7 +85,5 @@ feature_row7:
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="left" %}
-
-{% include feature_row id="feature_row6" type="left" %}
 
 {% include feature_row id="feature_row7" type="left" %}
